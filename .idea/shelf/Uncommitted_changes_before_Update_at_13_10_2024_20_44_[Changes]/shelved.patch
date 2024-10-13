@@ -1,0 +1,87 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d1f2421d-dc3e-4f2c-936b-76b47ecbf548\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/CoffeMachine.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/backend/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/backend/sensors.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/components/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/components/coffe_picker.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/components/footer.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/components/navbar.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/views/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/views/coffee_desk.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/CoffeMachine/views/idx.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/assets/20-28.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mWZlykU0D7cASYPRuZwI5v1WXB\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.CoffeMachine.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\piotr\\PycharmProjects\\CoffeMachine\" />\r\n      <recent name=\"C:\\Users\\piotr\\PycharmProjects\\CoffeMachine\\CoffeMachine\" />\r\n      <recent name=\"C:\\Users\\piotr\\PycharmProjects\\CoffeMachine\\assets\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d1f2421d-dc3e-4f2c-936b-76b47ecbf548\" name=\"Changes\" comment=\"\" />\r\n      <created>1727194448135</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727194448135</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision bd059fab2fd03279d393327e10a185c20c2e3822)
++++ b/.idea/workspace.xml	(date 1728844895489)
+@@ -4,24 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d1f2421d-dc3e-4f2c-936b-76b47ecbf548" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/CoffeMachine.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/backend/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/backend/sensors.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/components/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/components/coffe_picker.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/components/footer.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/components/navbar.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/views/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/views/coffee_desk.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/CoffeMachine/views/idx.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/20-28.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
++    <list default="true" id="d1f2421d-dc3e-4f2c-936b-76b47ecbf548" name="Changes" comment="CoffeeMachine Simulator">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -37,7 +21,17 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {}
++}]]></component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/Cracowiatschek/CoffeeMachine.git",
++    "accountId": "792db90e-bdcf-48a7-ae34-ff430b6f6bb8"
++  }
++}]]></component>
+   <component name="ProblemsViewState">
+     <option name="selectedTabId" value="CurrentFile" />
+   </component>
+@@ -83,6 +77,30 @@
+       <option name="presentableId" value="Default" />
+       <updated>1727194448135</updated>
+     </task>
++    <task id="LOCAL-00001" summary="CoffeeMachine Simulator">
++      <option name="closed" value="true" />
++      <created>1728844010796</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1728844010796</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="CoffeeMachine Simulator" />
++    <option name="LAST_COMMIT_MESSAGE" value="CoffeeMachine Simulator" />
++  </component>
+ </project>
+\ No newline at end of file
